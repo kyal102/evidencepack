@@ -2,7 +2,7 @@
 
 # EvidencePack
 
-![CI](https://img.shields.io/badge/CI-passing-brightgreen) ![python](https://img.shields.io/badge/python-3.9%2B-blue) ![license](https://img.shields.io/badge/license-MIT-green) ![deps](https://img.shields.io/badge/dependencies-stdlib--only-blue)
+[![CI](https://github.com/kyal102/evidencepack/actions/workflows/ci.yml/badge.svg)](https://github.com/kyal102/evidencepack/actions/workflows/ci.yml) ![python](https://img.shields.io/badge/python-3.9%2B-blue) ![license](https://img.shields.io/badge/license-MIT-green) ![deps](https://img.shields.io/badge/dependencies-stdlib--only-blue)
 
 **Reproducible receipts for claim checks.** Seal *what was checked, by which tool, with what verdict* into a hash-stamped JSON you can verify and diff later.
 
